@@ -106,6 +106,19 @@ COMSATS University Islamabad
 * Practiced algorithmic thinking and logical problem solving.
 
 ---
+## Experience
+
+### Cyber Security Intern
+CodeAlpha
+May 2026 to June 2026 – Present
+
+- Learning industry-standard cybersecurity tools and methodologies.
+- Participating in hands-on security tasks and technical training.
+- Developing practical skills in offensive and defensive security.
+- Building projects for Cyber Knowledge Enhancement
+
+---
+
 ## Certifications
 
 ### Introduction to Cybersecurity
